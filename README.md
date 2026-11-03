@@ -126,28 +126,27 @@ A practical collection of my DevOps learning notes, commands and hands-on implem
 
 ---
 
+
+---
+
 # 🤝 CONNECT WITH ME
 
 <div align="center">
 
 Let's connect, collaborate and build something amazing!
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/anurag0907">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:anurag.chavan794@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/07_anurag__/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Anurag070904">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -159,3 +158,4 @@ Let's connect, collaborate and build something amazing!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:162447,100:00C9FF&height=120&section=footer" width="100%"/>
 
 </div>
+
